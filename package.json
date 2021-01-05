@@ -46,7 +46,7 @@
   "author": "mitolog <hkyhm5l@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cac": "^6.5.2",
     "dotenv": "^6.2.0",
     "execa": "^2.0.3",
